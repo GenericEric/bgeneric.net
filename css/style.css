@@ -1,0 +1,101 @@
+@font-face {
+    font-family: IBMVGAFont;
+    src: url(fonts/PxPlus_IBM_VGA_8x14.ttf);
+}
+
+.container {
+    display: table;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+  }
+
+.divc {
+    display: table-cell;
+    vertical-align: middle;
+    width: 35%;
+    padding: 0rem;
+    margin: auto;
+  }
+
+.links {
+    color: #c2c2c2;
+    font-size: 20px;
+    font-family: IBMVGAFont;
+    line-height: 1.5em;
+    padding-left: 39%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.bio {
+    color: #00AC6D;
+    font-size: 20px;
+    font-family: IBMVGAFont;
+    line-height: 1.5em;
+    max-width: 100%;
+    padding-top: 5%;
+    padding-right: 20%;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    background-color: #141414;
+    color: #00AC6D;
+    margin-bottom: 100px;
+    width: auto
+}
+
+body {
+    background-color: #141414;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.toxcode {
+    height: 50%;
+    width: 50%;
+}
+
+.topthing {
+    text-align: center;
+    font-family: IBMVGAFont;
+    font-size: 60px;
+    padding-bottom: 8%;
+    overflow: hidden;
+}
+
+.contact {
+    color: #c2c2c2;
+    background-color: #101010;
+    font-size: 20px;
+    text-align: left;
+    padding: 2%;
+    margin: auto;
+    width: 70%;
+    font-family: IBMVGAFont;
+    line-height: 1.1em;
+    overflow: hidden;
+}
+
+.foot {
+    color: #c2c2c2;
+    text-align: center;
+}
+
+.greeng {
+    color: #00AC6D;
+}
+
+.genbody
+{
+    overflow:hidden;
+    margin: auto;
+    padding: 2%;
+}
+
+.tab {
+    margin-left: 40px;
+}
