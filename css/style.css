@@ -52,6 +52,7 @@
 }
 
 body {
+    color: #00AC6D;
     font-family: IBMVGAFont;
     background-color: #141414;
     padding-left: 10%;
@@ -111,6 +112,7 @@ th, td {
 }
 
 .meme {
+    color: #00AC6D;
     font-family: IBMVGAFont;
     text-align: center;
     font-size: 30px;
