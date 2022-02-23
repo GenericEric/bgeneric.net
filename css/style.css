@@ -64,6 +64,7 @@ body {
 }
 
 .topthing {
+    color: #00AC6D;
     text-align: center;
     font-family: IBMVGAFont;
     font-size: 60px;
@@ -104,4 +105,14 @@ body {
 
 .tab {
     margin-left: 40px;
+}
+
+th, td {
+    padding: 1%;
+}
+
+.meme {
+    font-family: IBMVGAFont;
+    text-align: center;
+    font-size: 30px;
 }
