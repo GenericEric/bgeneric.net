@@ -91,6 +91,7 @@ body {
     color: #c2c2c2;
     font-family: IBMVGAFont;
     text-align: center;
+    padding-top: 10%;
 }
 
 .greeng {
@@ -120,4 +121,5 @@ th, td {
     background-color: #141414;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 50%;
 }
