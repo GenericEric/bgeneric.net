@@ -112,8 +112,10 @@ th, td {
 }
 
 .memes {
+    text-align: center;
     color: #00AC6D;
     font-family: IBMVGAFont;
-    text-align: center;
-    font-size: 30px;
+    background-color: #141414;
+    padding-left: 10%;
+    padding-right: 10%;
 }
