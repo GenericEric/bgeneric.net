@@ -113,6 +113,7 @@ th, td {
 }
 
 .memes {
+    font-size: 30px;
     text-align: center;
     color: #00AC6D;
     font-family: IBMVGAFont;
