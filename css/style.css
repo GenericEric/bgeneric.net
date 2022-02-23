@@ -13,6 +13,7 @@
 
 .divc {
     display: table-cell;
+    font-family: IBMVGAFont;
     vertical-align: middle;
     width: 35%;
     padding: 0rem;
@@ -82,6 +83,7 @@ body {
 
 .foot {
     color: #c2c2c2;
+    font-family: IBMVGAFont;
     text-align: center;
 }
 
@@ -92,6 +94,7 @@ body {
 .genbody
 {
     overflow:hidden;
+    font-family: IBMVGAFont;
     margin: auto;
     padding: 2%;
 }
