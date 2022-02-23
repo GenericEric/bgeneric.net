@@ -44,6 +44,7 @@
 
 .title {
     text-align: center;
+    font-family: IBMVGAFont;
     background-color: #141414;
     color: #00AC6D;
     margin-bottom: 100px;
@@ -51,6 +52,7 @@
 }
 
 body {
+    font-family: IBMVGAFont;
     background-color: #141414;
     padding-left: 10%;
     padding-right: 10%;
