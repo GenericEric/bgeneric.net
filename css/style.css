@@ -126,19 +126,21 @@ th, td {
 
 .title-bar
 {
-    text-align: center;
-    display: block;
+    max-width: auto;
+    max-height: auto;
+    display: flex;
     background-color: #141414;
     justify-content: center;
-    padding: 1%;
+    padding: 1mm;
     list-style-type: none;
-    overflow: visible;
+    overflow: hidden;
 }
 .title-bar a
 {
-
+    max-width: auto;
+    max-height: auto;
     font-family: IBMVGAFont;
-    font-size: 40px;
+    font-size: 35px;
     flex-wrap: wrap;
     text-align: center;
     padding: 12px;
@@ -150,8 +152,8 @@ th, td {
 }
 .title-bar a:hover
 {
-
-    color: #2f8b46;
-    background-color: #141414;
+    max-width: auto;
+    max-height: auto;
+    color: #152c1c;
     text-decoration: none; 
 }
