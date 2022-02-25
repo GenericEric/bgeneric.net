@@ -123,3 +123,35 @@ th, td {
     padding-right: 10%;
     padding-bottom: 50%;
 }
+
+.title-bar
+{
+    text-align: center;
+    display: block;
+    background-color: #141414;
+    justify-content: center;
+    padding: 1%;
+    list-style-type: none;
+    overflow: visible;
+}
+.title-bar a
+{
+
+    font-family: IBMVGAFont;
+    font-size: 40px;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 12px;
+    transition: all 0.3s ease;
+    color: #00AC6D;
+    list-style-type: none;
+    text-decoration: none; 
+
+}
+.title-bar a:hover
+{
+
+    color: #2f8b46;
+    background-color: #141414;
+    text-decoration: none; 
+}
